@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background: #1F0933;
+  background: -webkit-linear-gradient(left top, #1F0933, #715687, #C284CC);
+  background: -o-linear-gradient(bottom right, #1F0933, #715687, #C284CC);
+  background: -moz-linear-gradient(bottom right, #1F0933, #715687, #C284CC);*/
+  background: linear-gradient(to bottom right, #1F0933, #715687, #C284CC);
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
